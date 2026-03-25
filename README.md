@@ -17,14 +17,15 @@ Challenges identified:
 Opportunities:
 - Educating the market  
 - Introducing API-based solutions  
-- Integrating AI/chatbots into messaging  
+- Integrating AI/chatbots into messaging
+  
 Viber as a Business Channel
 Viber is widely used in Nepal and offers strong potential for business communication through features like business messaging, chatbots, and ads.
 Focus areas:
 - Targeted messaging to specific user segments  
 - Cost-effective communication  
 - Higher engagement compared to traditional SMS  
-aStrategy direction:
+Strategy direction:
 - Build awareness among businesses  
 - Position Viber as a marketing + support tool  
 - Use real campaign examples to drive adoption  
