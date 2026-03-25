@@ -28,7 +28,8 @@ Focus areas:
 Strategy direction:
 - Build awareness among businesses  
 - Position Viber as a marketing + support tool  
-- Use real campaign examples to drive adoption  
+- Use real campaign examples to drive adoption
+  
 Work Outcome
 This helped build a foundational understanding of the CPaaS market in Nepal and supported early-stage strategy discussions around messaging solutions.
 Note: This repository reflects structured learning and early-stage market analysis work, not final production systems.
